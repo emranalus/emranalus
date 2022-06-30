@@ -1,4 +1,6 @@
 ### Hi there my name is Emirhan and this is my humble github profile, welcome! 👋
+<hr>
+
 
 <!--
 **emranalus/emranalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+![Alt Text](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)
 
 - 🔭 My Quick Story
 <br/>
