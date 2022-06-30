@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Emirhan and this is my humble github profile, welcome! 👋
 
 <!--
 **emranalus/emranalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt Text](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
+- 🔭 My Quick Story
+<br/>
+My first coding experience was at middle school when I joined Turuncu MakerLab we learned basic Algorithm(Scratch), Electronics(Breadboard) with Ardiuno later on I joined the FRC team İTOBOT 6038 as a programmer we coded in Python(OpenCV) and Java(wpilib) year after that I became the Programming Lead then found and became the Strategy Lead I also was the Co-Pilot of the robot that year! ✨ 
+<br/>
+I wasn't convinced that I was read for job applications thats why I joined Bilge Adam Akademi C# .NET/.NET Core Bootcamp to further advance myself in the Software Development field!
+<br/>
+<br/>
+- 🌱 I’m currently learning <br/> <br/>
+-- MVC <br/>
+-- API Controllers <br/>
+-- Layered Architecture <br/>
