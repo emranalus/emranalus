@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- <div style="text-align:center"><img src="..." />![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)</div>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
