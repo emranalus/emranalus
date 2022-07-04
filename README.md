@@ -26,6 +26,6 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
--- MVC <br/>
+-- MVC - Check! <br/>
 -- API Controllers <br/>
 -- Layered Architecture <br/>
