@@ -29,10 +29,14 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- MSSQL && Postgresql <br/>
 -- T-SQL <br/>
 -- C# .NET/.NET Core <br/>
+  - Fluent API <br/>
+  - CodeFirst Aproach <br/>
+  - SOLID && OOP <br/>
 -- Python(OpenCV) <br/>
 -- HTML5 && CSS3 <br/>
 -- JQuery, Bootstrap, Ajax <br/>
 -- MVC <br/>
+  - Authentication and Authorization via Identity Mechanism <br/>
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- API Controllers <br/>
