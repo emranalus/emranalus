@@ -40,7 +40,8 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- API Controllers <br/>
--- Layered Architecture <br/>
+-- Layered Architecture <br/><br/>
+- 📋 My Stats 
 <br/>
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=emranalus&theme=tokyonight&show_icons=true)
