@@ -26,7 +26,7 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 <br/>
 - 🌱 I Know <br/> <br/>
--- MSSQL && Postgresql <br/>
+
 -- T-SQL <br/>
 -- C# .NET/.NET Core <br/>
   - Fluent API <br/>
@@ -37,6 +37,14 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- JQuery, Bootstrap, Ajax <br/>
 -- MVC <br/>
   - Authentication and Authorization via Identity Mechanism <br/>
+
+<table>
+  <tr>-- MSSQL && Postgresql <br/>
+  - Fluent API <br/>
+  - CodeFirst Aproach <br/>
+  - SOLID && OOP <br/></tr>
+</table>
+
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- API Controllers <br/>
