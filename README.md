@@ -30,14 +30,14 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 
 -- T-SQL <br/>
 -- C# .NET/.NET Core <br/>
-&nbsp;  - Fluent API <br/>
-&nbsp;  - CodeFirst Aproach <br/>
-&nbsp;  - SOLID && OOP <br/>
+&nbsp;&nbsp;  - Fluent API <br/>
+&nbsp;&nbsp;  - CodeFirst Aproach <br/>
+&nbsp;&nbsp;  - SOLID && OOP <br/>
 -- Python(OpenCV) <br/>
 -- HTML5 && CSS3 <br/>
 -- JQuery, Bootstrap, Ajax <br/>
 -- MVC <br/>
-&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
+&nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
 
 
 <br/>
