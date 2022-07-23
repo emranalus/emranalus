@@ -43,6 +43,5 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- Layered Architecture <br/>
 <br/>
 My Stats <br/> 
-<hr>
 <br/>
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=emranalus&theme=tokyonight&show_icons=true)
