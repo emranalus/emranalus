@@ -25,9 +25,7 @@ My first coding experience was at middle school when I joined Turuncu Maker Lab 
 I wasn't convinced that I was ready for job applications thats why I joined Bilge Adam Akademi C# .NET/.NET Core Bootcamp to further advance myself in the Backend Software Development field!
 <br/>
 <br/>
-- 🌱 I Know <br/> <br/>
-
-
+- 👨‍💻 I Know <br/> <br/>
 -- T-SQL <br/>
 -- C# .NET/.NET Core <br/>
 &nbsp;&nbsp;  - Fluent API <br/>
@@ -39,10 +37,11 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- MVC <br/>
 &nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
 
-
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- API Controllers <br/>
 -- Layered Architecture <br/>
-
+<br/>
+### My Stats <br/> 
+<hr>
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=emranalus&theme=tokyonight&show_icons=true)
