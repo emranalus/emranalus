@@ -26,12 +26,12 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 <br/>
 - 👨‍💻 I Know <br/> <br/>
--- T-SQL <br/>
 -- C# .NET/.NET Core <br/>
 &nbsp;&nbsp;  - CodeFirst Aproach <br/>
 &nbsp;&nbsp;  - SOLID && OOP <br/>
+&nbsp;&nbsp;  - Authentication and Authorization <br/>
 -- Python(OpenCV) <br/>
--- HTML5 && CSS3 <br/>
+-- CSHTML <br/>
 -- MVC <br/>
 &nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
 
