@@ -28,18 +28,17 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 - 👨‍💻 I Know <br/> <br/>
 -- T-SQL <br/>
 -- C# .NET/.NET Core <br/>
-&nbsp;&nbsp;  - Fluent API <br/>
 &nbsp;&nbsp;  - CodeFirst Aproach <br/>
 &nbsp;&nbsp;  - SOLID && OOP <br/>
 -- Python(OpenCV) <br/>
 -- HTML5 && CSS3 <br/>
--- JQuery, Bootstrap, Ajax <br/>
 -- MVC <br/>
 &nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
 
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- API Controllers <br/>
+-- JQuery && Ajax <br/>
 -- Layered Architecture <br/><br/>
 - 📋 My Stats 
 <br/><br/>
