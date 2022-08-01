@@ -30,6 +30,7 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 &nbsp;&nbsp;  - CodeFirst Aproach <br/>
 &nbsp;&nbsp;  - SOLID && OOP <br/>
 &nbsp;&nbsp;  - Authentication and Authorization <br/>
+&nbsp;&nbsp;  - Lambda Style LINQ Queries <br/>
 -- Python(OpenCV) <br/>
 -- CSHTML <br/>
 -- MVC <br/>
