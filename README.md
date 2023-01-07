@@ -31,16 +31,14 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 &nbsp;&nbsp;  - SOLID && OOP <br/>
 &nbsp;&nbsp;  - Authentication and Authorization <br/>
 &nbsp;&nbsp;  - Lambda Style LINQ Queries <br/>
--- Python(OpenCV) <br/>
+-- Python(OpenCV and CCXT) <br/>
 -- CSHTML <br/>
 -- MVC <br/>
 &nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
 
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
--- API Controllers <br/>
--- JQuery && Ajax <br/>
--- Layered Architecture <br/><br/>
+-- Php <br/> <br/>
 - 📋 My Stats 
 <br/><br/>
 
