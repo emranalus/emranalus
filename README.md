@@ -39,7 +39,4 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- Php <br/> <br/>
-- 📋 My Stats 
-<br/><br/>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=emranalus&theme=tokyonight&show_icons=true)
