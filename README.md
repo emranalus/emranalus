@@ -35,8 +35,9 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- CSHTML <br/>
 -- MVC <br/>
 &nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
+-- Php <br/> <br/>
 
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
--- Php <br/> <br/>
+-- Php Laravel Framework<br/> <br/>
 
