@@ -35,7 +35,7 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 - 🌱 I’m currently learning <br/> <br/>
 -- N/A<br/> <br/>
 
-- 🔭 I’m currently working on <br/><br/>
+- 🤔 I’m currently working on <br/><br/>
 -- Crypto trading bot using Python <br/><br/>
 
 
