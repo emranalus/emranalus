@@ -20,22 +20,33 @@ Here are some ideas to get you started:
 
 - 🔭 My Quick Story
 <br/>
+=====================
+<br/>
 My first coding experience was at middle school when I joined Turuncu Maker Lab we learned basic Algorithm(Scratch), Electronics(Breadboard) with Ardiuno later on I joined the FRC team İTOBOT 6038 as a programmer we coded in Python(OpenCV) and Java(wpilib) year after that I became the Programming Lead then found and became the Strategy Lead I also able to give a Python workshop when I was 16 along side beign the Co-Pilot of the robot that year! ✨ 
 <br/>
 I wasn't convinced that I was ready for job applications thats why I joined Bilge Adam Akademi C# .NET/.NET Core Bootcamp to further advance myself in the Backend Software Development field!
 <br/>
 <br/>
-- 👨‍💻 I Know <br/> <br/>
+- 👨‍💻 I Know
+<br/>
+=====================
+<br/>
 -- C# .NET/.NET Core <br/>
 -- Python(OpenCV and CCXT) <br/>
 -- CSHTML <br/>
 -- MVC, SOLID, OOP, KISS <br/>
 -- Php <br/> <br/>
 
-- 🌱 I’m currently learning <br/> <br/>
+- 🌱 I’m currently learning 
+<br/>
+=====================
+<br/>
 -- N/A<br/> <br/>
 
-- 🤔 I’m currently working on <br/><br/>
+- 🤔 I’m currently working on
+<br/>
+=====================
+<br/>
 -- Crypto trading bot using Python <br/><br/>
 
 
