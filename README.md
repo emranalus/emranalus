@@ -27,17 +27,16 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 - 👨‍💻 I Know <br/> <br/>
 -- C# .NET/.NET Core <br/>
-&nbsp;&nbsp;  - CodeFirst Aproach <br/>
-&nbsp;&nbsp;  - SOLID && OOP <br/>
-&nbsp;&nbsp;  - Authentication and Authorization <br/>
-&nbsp;&nbsp;  - Lambda Style LINQ Queries <br/>
 -- Python(OpenCV and CCXT) <br/>
 -- CSHTML <br/>
--- MVC <br/>
-&nbsp;&nbsp;  - Authentication and Authorization via Identity Mechanism <br/>
+-- MVC, SOLID, OOP, KISS <br/>
 -- Php <br/> <br/>
 
 <br/>
 - 🌱 I’m currently learning <br/> <br/>
--- Php Laravel Framework<br/> <br/>
+-- N/A<br/> <br/>
+
+- 🔭 I’m currently working on <br/><br/>
+-- Crypto trading bot using Python <br/><br/>
+
 
