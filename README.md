@@ -32,7 +32,6 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- MVC, SOLID, OOP, KISS <br/>
 -- Php <br/> <br/>
 
-<br/>
 - 🌱 I’m currently learning <br/> <br/>
 -- N/A<br/> <br/>
 
