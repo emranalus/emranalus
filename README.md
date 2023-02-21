@@ -36,12 +36,15 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- CSHTML <br/>
 -- MVC, SOLID, OOP, KISS <br/>
 -- Php <br/> <br/>
+-- Git<br/> <br/>
+-- NeoVim/Vim/Vi<br/> <br/>
 
 - 🌱 I’m currently learning 
 <br/>
 =====================
 <br/>
--- N/A<br/> <br/>
+-- Assembly<br/> <br/>
+-- C/C++<br/> <br/>
 
 - 🤔 I’m currently working on
 <br/>
