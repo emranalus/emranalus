@@ -39,12 +39,16 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- Git<br/> 
 -- NeoVim/Vim/Vi<br/> 
 
+<br/>
+
 - 🌱 I’m currently learning 
 <br/>
 =====================
 <br/>
 -- Assembly<br/> 
 -- C/C++<br/> 
+
+<br/>
 
 - 🤔 I’m currently working on
 <br/>
