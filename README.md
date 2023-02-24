@@ -46,7 +46,7 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 =====================
 <br/>
--- Assembly<br/> 
+-- x86 Assembly<br/> 
 -- C/C++<br/> 
 -- Artificial Intelligence<br/> 
 
