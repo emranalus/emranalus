@@ -56,5 +56,6 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 <br/>
 =====================
 <br/>
--- Crypto trading bot using Python <br/>
+-- Cryptocurrency Trading Bot using Python <br/>
+-- CHIP-8 Emulator using Golang <br/>
 
