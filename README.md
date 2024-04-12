@@ -38,7 +38,7 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- Php <br/>
 -- Git<br/> 
 -- NeoVim/Vim/Vi<br/> 
--- Linux(Daily Drive)<br/> 
+-- Linux<br/> 
 
 <br/>
 
@@ -51,11 +51,4 @@ I wasn't convinced that I was ready for job applications thats why I joined Bilg
 -- Artificial Intelligence<br/> 
 
 <br/>
-
-- 🤔 I’m currently working on
-<br/>
-=====================
-<br/>
--- Cryptocurrency Trading Bot using Python <br/>
--- CHIP-8 Emulator using Golang <br/>
 
