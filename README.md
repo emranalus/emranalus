@@ -1,1 +1,1 @@
-### Hi there my name is Emirhan and this is my humble github profile, welcome! 👋
+### Hi there my name is Emirhan and this is my humble github profile! 👋
